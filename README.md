@@ -1,5 +1,7 @@
 # 📚 Spring Boot Student Management API  
 
+![Java CI with Maven](https://github.com/seshathri044/spring-boot-student-api/actions/workflows/maven.yml/badge.svg)
+
 A **production-ready RESTful API** for managing student records, built with **Spring Boot, MySQL, and JPA**.  
 This project demonstrates **clean layered architecture, database integration, and CRUD operations**.  
 It’s designed as a scalable microservice that can be extended into a full **Student Management System**.  
@@ -143,11 +145,16 @@ mvn spring-boot:run
 
 
 ## 🚀 Future Improvements
-
+- ✅ Github Action CI CD [🎉Completed]
 - ✅ Add Swagger/OpenAPI documentation
 - ✅ Implement validation (Hibernate Validator)
 - ✅ Add JUnit + Mockito test coverage
 - ✅ Secure APIs with JWT authentication
+
+## 🚀 CI/CD Setup (GitHub Actions)
+
+**CI/CD Status:**  
+![Java CI with Maven](https://github.com/seshathri044/spring-boot-student-api/actions/workflows/maven.yml/badge.svg)
 
 ## 🤝 Contributing
 - Contributions are welcome!
